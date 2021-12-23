@@ -4,10 +4,13 @@
     margin: 0;
 }
 
+/* styling body starts */
 body {
     background-color: #d9dcd6;
 }
+/* styling body ends */
 
+/* styling header starts */
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -40,6 +43,7 @@ body {
     display: inline-block;
     margin-left: 25px;
 }
+/* styling header ends */
 
 a {
     color: #ffffff;
@@ -50,6 +54,7 @@ p {
     font-size: 16px;
 }
 
+/* styling hero starts */
 .hero {
     height: 800px;
     width: 100%;
@@ -187,7 +192,9 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
+/* styling hero ends */
 
+/* styling footer starts */
 .footer {
     padding: 30px;
     clear: both;
@@ -198,3 +205,4 @@ p {
 .footer h2 {
     font-size: 20px;
 }
+/* styling footer ends */
