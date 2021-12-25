@@ -25,3 +25,14 @@ The HTML and CSS were reviewed and refractored to make HTML's links work and con
 
 5. Navigate to <your-github-username>github.io/your-repo-name> and will make the repo live. For this project HoriSEOn, the URL will be <your-github-username.github.io/HoriSEOn>
  
+## Usage 
+ 
+ ![Screenshot (45)](https://user-images.githubusercontent.com/78709516/147392968-ab734baf-364d-4c3f-8664-ce162be24d5f.png)
+![Screenshot (46)](https://user-images.githubusercontent.com/78709516/147392970-d81755c4-d548-4908-b460-eb1ea1f0aa96.png)
+![Screenshot (47)](https://user-images.githubusercontent.com/78709516/147392974-6330a813-5a46-42bb-8e2d-ae063b2816a0.png)
+
+## Credits
+ 
+Did not collaborate with anyone.
+ 
+## License
