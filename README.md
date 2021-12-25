@@ -24,8 +24,4 @@ The HTML and CSS were reviewed and refractored to make HTML's links work and con
 4. To launch URL, select Settings tab, scroll down GitHub page's sections to select Source then select main branch as source.
 
 5. Navigate to <your-github-username>github.io/your-repo-name> and will make the repo live. For this project HoriSEOn, the URL will be <your-github-username.github.io/HoriSEOn>
-  
-![Screenshot (42)](https://user-images.githubusercontent.com/78709516/147392752-c7891eb3-fc69-4f4a-9cfd-761374a7aca4.png)
-![Screenshot (43)](https://user-images.githubusercontent.com/78709516/147392756-d8e32b24-c263-4071-a643-01ee17deb2dc.png)
-![Screenshot (44)](https://user-images.githubusercontent.com/78709516/147392764-20e1e1ab-ec57-4628-a61e-53ba8e5cfdef.png)
-
+ 
